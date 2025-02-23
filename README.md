@@ -1,6 +1,7 @@
 # Exercicios TCC
 Exercicios feitos para ter propriedade para se desenvolver o TCC 
-(Ideal: cada integrante criar uma Branch com seu nome e ir treinando para não ficar perdido no trabalho)
+<br>
+<p> <strong>IDEAL:</strong> cada integrante criar uma Branch com seu nome e ir treinando para não ficar perdido no trabalho </p>
 
 ### **Exercício 1: Envio de Mensagem Simples**
 
